@@ -1,0 +1,5 @@
+Installed chaincodes on peer:
+Package ID: benhsoi_3:69639a4687ea51452e3f266d892544e2a8859789ac6a1640475fd6cdde476254, Label: benhsoi_3
+Package ID: benhsoi_4:1d29c1005ed215a5c662edea9e074db418ff4993e8decc7dfdda61b9a89c7827, Label: benhsoi_4
+Package ID: benhsoi_1:4756860cddd9b3cfda6b6ac04eff984d29f96c78557f73cf6032dc0578414256, Label: benhsoi_1
+Package ID: benhsoi_2:2ab9db8429faa5dec0df1a2c366625fa16b8a531f726fbdaf469fb678792f875, Label: benhsoi_2
